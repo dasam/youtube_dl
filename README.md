@@ -31,7 +31,7 @@ python youtube_dl.py [YouTube URL] [Download Path]
 ```
 For example:
 ```bash
-python youtube_dl.py https://www.youtube.com/watch?v=jUaZ7LxvMsY D:\Development
+python youtube_dl.py https://www.youtube.com/watch?v=jUaZ7LxvMsY C:\Downloads
 ```
 
 ### Troubleshooting
